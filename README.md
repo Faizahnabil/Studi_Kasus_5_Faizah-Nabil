@@ -13,3 +13,7 @@ Jenis kamar, checkin, dan checkout itu adalah input data pengguna yang berfungsi
 Datetime.strptime berfungsi untuk mengubah tanggal yang diketik oleh pengguna.
 Lalu menggunakan kode days. untuk mendapatkan total malam menginap dengan menghitung selisih hari antara tanggal checkin dan checkout.
 Dan kode terakhir adalah total yang berfungsi mengalikan tarif per malam dari jenis kamar yang dipilih dengan lama menginap.
+
+
+<img width="1573" height="452" alt="Screenshot 2026-09-22 051520" src="https://github.com/user-attachments/assets/60045d60-360d-46ba-8d10-8288bfb6f631" />
+Ini adalah output saya.
